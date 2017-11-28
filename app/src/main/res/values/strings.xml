@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aula05Menu_03</string>
+    <string name="count">Voltar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="reset">Fale</string>
+    <string name="about">Sobre</string>
+    <string name="exit">Sair</string>
+    <string name="about_test">Informações sobre este aplicativo</string>
+    <string name="add">Adicionar</string>
+
+</resources>
